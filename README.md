@@ -8,7 +8,7 @@ l'opportunité de travailler sur un projet d'analyse de données réel, en utili
 bibliothèques telles que Pandas, NumPy et Matplotlib.
 
 
-Objectifs du projet:
+### Objectifs du projet:
 ● Collecter, nettoyer et préparer des données brutes pour l'analyse.
 ● Effectuer une analyse exploratoire des données en utilisant des techniques statistiques et
 visuelles.
@@ -16,7 +16,7 @@ visuelles.
 ● Présenter les résultats de l'analyse de manière claire et compréhensible.
 
 
-Idées de projet:
+### Idées de projet:
 1. Analyse des ventes en ligne:
 ● Utiliser des données de ventes en ligne disponibles publiquement.
 ● Nettoyer les données et les structurer pour l'analyse.
