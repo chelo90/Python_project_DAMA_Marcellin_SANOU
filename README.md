@@ -1,5 +1,5 @@
-# Python_project_DAMA_Marcellin_SANOU
-## Repo Git du projet Python réalisé par l'étudiant Marcellin SANOU
+# Repo Git du projet Python réalisé par l'étudiant Marcellin SANOU
+# Directives de l'Enseignant du module "Python Basique"
 ### Projet de Fin de Formation: Analyse de Données avec Python
 Description du projet:
 Le projet de ﬁn de formation vise à mettre en pratique les concepts et les compétences acquises
